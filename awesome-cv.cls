@@ -416,11 +416,11 @@
 %-------------------------------------------------------------------------------
 %% Define helper macros a user can change easily
 % Header
-\newcommand{\acvHeaderNameDelim}{\space}
+\newcommand{\acvHeaderNameDelim}{~}
 \newcommand{\acvHeaderAfterNameSkip}{1mm}
 \newcommand{\acvHeaderAfterPositionSkip}{1mm}
 \newcommand{\acvHeaderAfterAddressSkip}{0.5mm}
-\newcommand{\acvHeaderIconSep}{\space}
+\newcommand{\acvHeaderIconSep}{~}
 \newcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
 \newcommand{\acvHeaderAfterSocialSkip}{5mm}
 \newcommand{\acvHeaderAfterQuoteSkip}{5mm}
